@@ -1,3 +1,5 @@
+// Logarithmic one line Solution :-
+
 #include <iostream>
 #include <cmath>
 using namespace std;
